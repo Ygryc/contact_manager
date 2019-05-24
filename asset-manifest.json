@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https//ygryc.github.io/contact_manager/static/css/main.65938976.chunk.css",
-    "main.js": "https//ygryc.github.io/contact_manager/static/js/main.e62ca83f.chunk.js",
-    "main.js.map": "https//ygryc.github.io/contact_manager/static/js/main.e62ca83f.chunk.js.map",
-    "runtime~main.js": "https//ygryc.github.io/contact_manager/static/js/runtime~main.92dfc283.js",
-    "runtime~main.js.map": "https//ygryc.github.io/contact_manager/static/js/runtime~main.92dfc283.js.map",
-    "static/css/2.266e55a5.chunk.css": "https//ygryc.github.io/contact_manager/static/css/2.266e55a5.chunk.css",
-    "static/js/2.02a1030e.chunk.js": "https//ygryc.github.io/contact_manager/static/js/2.02a1030e.chunk.js",
-    "static/js/2.02a1030e.chunk.js.map": "https//ygryc.github.io/contact_manager/static/js/2.02a1030e.chunk.js.map",
-    "index.html": "https//ygryc.github.io/contact_manager/index.html",
-    "precache-manifest.cbbb70eb6ab651190755e137a1bcd52c.js": "https//ygryc.github.io/contact_manager/precache-manifest.cbbb70eb6ab651190755e137a1bcd52c.js",
-    "service-worker.js": "https//ygryc.github.io/contact_manager/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "https//ygryc.github.io/contact_manager/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.65938976.chunk.css.map": "https//ygryc.github.io/contact_manager/static/css/main.65938976.chunk.css.map"
+    "main.css": "/contactmanager/static/css/main.65938976.chunk.css",
+    "main.js": "/contactmanager/static/js/main.dd0d81ad.chunk.js",
+    "main.js.map": "/contactmanager/static/js/main.dd0d81ad.chunk.js.map",
+    "runtime~main.js": "/contactmanager/static/js/runtime~main.884ecd02.js",
+    "runtime~main.js.map": "/contactmanager/static/js/runtime~main.884ecd02.js.map",
+    "static/css/2.266e55a5.chunk.css": "/contactmanager/static/css/2.266e55a5.chunk.css",
+    "static/js/2.597400d6.chunk.js": "/contactmanager/static/js/2.597400d6.chunk.js",
+    "static/js/2.597400d6.chunk.js.map": "/contactmanager/static/js/2.597400d6.chunk.js.map",
+    "index.html": "/contactmanager/index.html",
+    "precache-manifest.615fb90041f523c8b668e7abc7137ca8.js": "/contactmanager/precache-manifest.615fb90041f523c8b668e7abc7137ca8.js",
+    "service-worker.js": "/contactmanager/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/contactmanager/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.65938976.chunk.css.map": "/contactmanager/static/css/main.65938976.chunk.css.map"
   }
 }
