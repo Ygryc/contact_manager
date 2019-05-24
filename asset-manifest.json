@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https//ygryc.github.io/contact_manager/static/css/main.65938976.chunk.css",
+    "main.js": "https//ygryc.github.io/contact_manager/static/js/main.e62ca83f.chunk.js",
+    "main.js.map": "https//ygryc.github.io/contact_manager/static/js/main.e62ca83f.chunk.js.map",
+    "runtime~main.js": "https//ygryc.github.io/contact_manager/static/js/runtime~main.92dfc283.js",
+    "runtime~main.js.map": "https//ygryc.github.io/contact_manager/static/js/runtime~main.92dfc283.js.map",
+    "static/css/2.266e55a5.chunk.css": "https//ygryc.github.io/contact_manager/static/css/2.266e55a5.chunk.css",
+    "static/js/2.02a1030e.chunk.js": "https//ygryc.github.io/contact_manager/static/js/2.02a1030e.chunk.js",
+    "static/js/2.02a1030e.chunk.js.map": "https//ygryc.github.io/contact_manager/static/js/2.02a1030e.chunk.js.map",
+    "index.html": "https//ygryc.github.io/contact_manager/index.html",
+    "precache-manifest.cbbb70eb6ab651190755e137a1bcd52c.js": "https//ygryc.github.io/contact_manager/precache-manifest.cbbb70eb6ab651190755e137a1bcd52c.js",
+    "service-worker.js": "https//ygryc.github.io/contact_manager/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "https//ygryc.github.io/contact_manager/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.65938976.chunk.css.map": "https//ygryc.github.io/contact_manager/static/css/main.65938976.chunk.css.map"
+  }
+}
